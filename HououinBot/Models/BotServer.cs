@@ -10,7 +10,7 @@ using HououinBot.Data;
 
 namespace HououinBot.Models {
     public class BotServer {
-        private const string Key = "844772066:AAHnh3G9Ic_Lh9zzqjgjaT7MMOmsQlqP93o";
+        private const string Key = "";
 
         private readonly TelegramBotClient bot;
 
